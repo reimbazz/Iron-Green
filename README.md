@@ -19,17 +19,16 @@ Como executar
    - Exemplo de execução pelo terminal:
      - PowerShell:
        ```
-       .\NomeDoExecutavel.exe
+       .\Iron&Green.exe
        ```
      - Prompt de Comando:
        ```
-       NomeDoExecutavel.exe
+       Iron&Green.exe
        ```
    - Ou dê duplo clique sobre o arquivo `.exe` no Explorador de Arquivos do Windows.
 
 Observações
 ----------
-- Substitua `NomeDoExecutavel.exe` pelo nome real do arquivo presente no repositório.
 - Ao baixar um executável da internet, o Windows pode bloquear o arquivo. Para desbloquear: clique com o botão direito → Propriedades → marque "Desbloquear" se essa opção aparecer.
 - Se o jogo não iniciar e aparecer erro de DLL ausente (ex.: MSVCP140.dll), instale o Visual C++ Redistributable (versão 2015–2022) da Microsoft.
 
